@@ -16,8 +16,8 @@
   "production": {
     "username": "root",
     "password": "GY0814.",
-    "database": "node_demo",
-    "host": "127.0.0.1",
+    "database": "blog",
+    "host": "39.103.236.222",
     "dialect": "mysql"
   }
 }
